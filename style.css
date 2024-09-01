@@ -60,3 +60,6 @@ body {
   letter-spacing: 2%;
   text-decoration: none
 }
+.tel a:hover {
+  color: #404BBF;
+}
