@@ -1,3 +1,41 @@
-body{
-    
+body {
+  background-color: #e7e9fc;
+  font-family: "Roboto", sans-serif;
+}
+.head {
+  text-decoration: none;
+}
+.Web {
+  text-decoration: none;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.studıo {
+  text-decoration: none;
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.page-menu-list a {
+  text-decoration: none;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.page-menu-list li {
+  list-style-type: none;
+}
+.page-menu-list a:hover {
+  color: #404bbf;
 }
